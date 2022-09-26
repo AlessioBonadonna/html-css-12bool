@@ -22,9 +22,6 @@
     line-height: 50px;
     border: 1px solid var(--blue);
 }
-.text-white{
-    color:var(--white)
-}
-.text-blue{
-    color:var(--blue)
+.margin{
+    margin-bottom:20px;
 }
