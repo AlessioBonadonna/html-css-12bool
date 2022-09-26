@@ -4,6 +4,7 @@
     --red: #D30119;
     --blue: #35487A;
     --giallo: #F2D168;
+    --bordo: #0E0F12;
 
 }
 .debug {
@@ -12,19 +13,19 @@
 }
 /*bordi*/
 .btop {
-    border-top: 5px solid var(--black);
+    border-top: 8px solid var(--bordo);
 }
 
 .bbottom {
-    border-bottom: 5px solid var(--black);
+    border-bottom: 8px solid var(--bordo);
 }
 
 .bleft {
-    border-left: 5px solid var(--black);
+    border-left: 8px solid var(--bordo);
 }
 
 .bright {
-    border-right: 5px solid var(--black);
+    border-right: 8px solid var(--bordo);
 }
 /*colore sfondo */
 .blue{
