@@ -1,0 +1,62 @@
+:root {
+    --white: white;
+    --black: #1A1C23;
+    --red: #D30119;
+    --blue: #35487A;
+    --giallo: #F2D168;
+
+}
+.debug {
+    
+    min-height: 50px;
+}
+/*bordi*/
+.btop {
+    border-top: 5px solid var(--black);
+}
+
+.bbottom {
+    border-bottom: 5px solid var(--black);
+}
+
+.bleft {
+    border-left: 5px solid var(--black);
+}
+
+.bright {
+    border-right: 5px solid var(--black);
+}
+/*colore sfondo */
+.blue{
+    background-color: var(--blue);
+    color: var(--blue);
+    text-align: center;
+    line-height: 50px;
+}
+.red{
+    background-color: var(--red);
+    color: var(--reed);
+    text-align: center;
+    line-height: 50px;
+}
+.black{
+    background-color: var(--black);
+    color: var(--black);
+    text-align: center;
+    line-height: 50px;
+}
+.yellow{
+    background-color: var(--giallo);
+    color: var(--giallo);
+    text-align: center;
+    line-height: 50px;
+}
+.white{
+    background-color:white;
+    color: var(--white);
+    text-align: center;
+    line-height: 50px;
+}
+.margin-top{
+    margin-top:50px !important;
+}
